@@ -194,8 +194,3 @@ For issues and questions:
 - Verify server configuration
 
 
----
-
-**Last Updated**: July 2025
-**Laravel Version**: 10.x (11.x upgrade recommended)
-**PHP Version**: 8.1+ (8.3 recommended)
